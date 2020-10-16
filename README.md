@@ -6,7 +6,9 @@ This is a Python script .You Can use it to communicate with server and client.
 ---
 ### Working Process
 
-clients can request different services at different times from any server that offers the service
+Client Send request to the server and server respoce for client. You can send request from atleast 10 Clients to the Server and Server keep Responce on it.
+
+Clients typically communicate with servers by using the TCP/IP protocol suite. TCP is a connection-oriented protocol, which means a connection is established and maintained until the application programs at each end have finished exchanging messages.
 
 <img src="https://github.com/Koustav-Dey/Client-Sever-Interaction/blob/main/Img/Working%20Process.png?raw=true" />    
 </a>&nbsp;&nbsp;
