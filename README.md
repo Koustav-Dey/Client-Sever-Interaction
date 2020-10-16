@@ -17,6 +17,10 @@ Clients typically communicate with servers by using the TCP/IP protocol suite. T
 ### Use This Tool For Fun 😉
 ---
 
+### For Using Remote system
+
+<h2> Change ip ('127.0.0.1',5090) --> client_socket.connect(('Remote ip',Port no)) </h2>
+
 ### Using Modules
 
 <p>
