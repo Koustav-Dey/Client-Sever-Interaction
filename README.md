@@ -1,9 +1,13 @@
 # Client-Sever-Interaction  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
-clients can request different services at different times from any server that offers the service
   
 Hii I am Koustav. 
-This is a Python script .You Can collect a Basic Information from a target Phone Number.
+This is a Python script .You Can use it to communicate with server and client.
+
+clients can request different services at different times from any server that offers the service
+
+<img src="https://github.com/Koustav-Dey/Client-Sever-Interaction/blob/main/Img/Client-Server-%20Interaction.png?raw=true" />    
+</a>&nbsp;&nbsp;
+
 
 ### Use This Tool For Fun 😉
 
@@ -18,6 +22,6 @@ This is a Python script .You Can collect a Basic Information from a target Phone
 </p>
 <hr>
 <a>
-    <img src="https://github.com/Koustav-Dey/Get-Your-PhoneNO-Details/blob/main/Output.png?raw=true" />    
+    <img src="https://github.com/Koustav-Dey/Client-Sever-Interaction/blob/main/Img/Client-Server-%20Interaction.png?raw=true" />    
 </a>&nbsp;&nbsp;
 
